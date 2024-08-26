@@ -1,0 +1,24 @@
+
+    h1{
+        background-color: aquamarine;
+        color: rgb(23, 23, 24);
+        
+}
+
+li{
+    background-color: aqua;
+}
+legend{
+    background-color: rgb(68, 255, 71);
+}
+body{
+    background-color: black;
+}
+button{
+    color: chartreuse;
+    background-color: rgb(84, 83, 83);
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
